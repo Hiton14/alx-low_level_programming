@@ -25,17 +25,18 @@ int main(void)
 					{
 						putchar(',');
 						putchar(' ');
-                                         }
+					}
 
 				}
 				k++;
-	                }
+			}
 			k = '0';
 			j++;
-                }
+		}
 		j = '0';
 		i++;
 	}
 	putchar('\n');
 	return (0);
 }
+
